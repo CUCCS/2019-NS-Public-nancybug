@@ -123,3 +123,5 @@
 5）. 网关流量监控（不知道 reply 数据包算不算是下行流量......）
 
 ![](image/flow.jpg)
+
+thanks for watching !
