@@ -22,7 +22,7 @@ git clone http://github.com/c4prlc3/ctf-games.git
 
 启动环境：
 
-![启动环境](images/启动环境.png)
+![启动环境](images\启动环境.png)
 
 使用
 
