@@ -32,7 +32,7 @@ docker ps
 
 都显示healthy则说明启动环境成功。
 
-![healthy](images\healthy.png)
+![healthy](images/healthy.png)
 
 2.进入WebGoat登录页面：
 
